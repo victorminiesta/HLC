@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="Ejercicio1.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet href="Ejercicio1.css" type="text/css"?>
+
+<empresa>
+    <departamento>Informatica</departamento>
+    <nombre>Raul</nombre>
+    <apellidos>Dominguez</apellidos>
+    <cargo>Jefe</cargo>
+    <telefonoMovil>123456789</telefonoMovil>    
+    <telefonoFijo>123456789</telefonoFijo>
+</empresa>
